@@ -5,7 +5,7 @@ const preferDefault = m => (m && m.default) || m
 
 
 exports.components = {
-  "component---cache-dev-404-page-js": hot(preferDefault(require("/home/eldo/Documents/Projects/Gatsby/eldomacuacua.github.io/.cache/dev-404-page.js"))),
+  "component---cache-caches-gatsby-plugin-offline-app-shell-js": hot(preferDefault(require("/home/eldo/Documents/Projects/Gatsby/eldomacuacua.github.io/.cache/caches/gatsby-plugin-offline/app-shell.js"))),
   "component---src-pages-404-js": hot(preferDefault(require("/home/eldo/Documents/Projects/Gatsby/eldomacuacua.github.io/src/pages/404.js"))),
   "component---src-pages-archive-js": hot(preferDefault(require("/home/eldo/Documents/Projects/Gatsby/eldomacuacua.github.io/src/pages/archive.js"))),
   "component---src-pages-index-js": hot(preferDefault(require("/home/eldo/Documents/Projects/Gatsby/eldomacuacua.github.io/src/pages/index.js"))),
